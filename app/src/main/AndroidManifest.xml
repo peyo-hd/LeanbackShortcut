@@ -10,10 +10,10 @@
         android:allowBackup="false"
         android:label="Leanback Shortcut">
         <activity
-            android:name=".Market"
-            android:label="Market"
-            android:icon="@drawable/ic_googleplay"
-            android:logo="@drawable/ic_googleplay"
+            android:name=".Browser"
+            android:label="Browser"
+            android:icon="@drawable/ic_browser"
+            android:logo="@drawable/ic_browser"
             android:screenOrientation="landscape" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
